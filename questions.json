@@ -1,0 +1,125 @@
+{
+    "python": [{
+            "question": "What does PEP stand for?",
+            "options": [
+                "Python Enhancement Proposal",
+                "Python Execution Process",
+                "Programming Enhancement Protocol"
+            ],
+            "correct": 0,
+            "difficulty": "easy"
+        },
+        {
+            "question": "How to create virtual environment?",
+            "options": [
+                "python -m venv env",
+                "pip install venv",
+                "venv new"
+            ],
+            "correct": 0,
+            "difficulty": "easy"
+        },
+        {
+            "question": "Which of the following is a mutable data type in Python?",
+            "options": [
+                "Tuple",
+                "String",
+                "List"
+            ],
+            "correct": 2,
+            "difficulty": "easy"
+        },
+        {
+            "question": "What is the output of: print(type(lambda x: x))?",
+            "options": [
+                "<class 'function'>",
+                "<class 'lambda'>",
+                "<class 'object'>"
+            ],
+            "correct": 0,
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which keyword is used to handle exceptions in Python?",
+            "options": [
+                "catch",
+                "except",
+                "error"
+            ],
+            "correct": 1,
+            "difficulty": "easy"
+        },
+        {
+            "question": "Which of these is not a valid Python data structure?",
+            "options": [
+                "Dictionary",
+                "Array",
+                "Set"
+            ],
+            "correct": 1,
+            "difficulty": "medium"
+        },
+        {
+            "question": "What will be the output of: bool('False')?",
+            "options": [
+                "False",
+                "True",
+                "None"
+            ],
+            "correct": 1,
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which built-in function returns the length of an object?",
+            "options": [
+                "size()",
+                "count()",
+                "len()"
+            ],
+            "correct": 2,
+            "difficulty": "easy"
+        },
+        {
+            "question": "What is the purpose of the 'with' statement in Python?",
+            "options": [
+                "To define loops",
+                "To handle exceptions",
+                "To simplify exception-safe resource management"
+            ],
+            "correct": 2,
+            "difficulty": "medium"
+        },
+        {
+            "question": "What does the 'self' keyword represent in a class?",
+            "options": [
+                "A reference to the current module",
+                "A reference to the instance of the class",
+                "A new object of the class"
+            ],
+            "correct": 1,
+            "difficulty": "medium"
+        }
+    ],
+
+    "science": [{
+            "question": "Which planet is known as Red Planet?",
+            "options": [
+                "Earth",
+                "Venus",
+                "Mars"
+            ],
+            "correct": 2,
+            "difficulty": "medium"
+        },
+        {
+            "question": "What is H2O?",
+            "options": [
+                "Water",
+                "Hydrogen",
+                "Oxygen"
+            ],
+            "correct": 0,
+            "difficulty": "medium"
+        }
+    ]
+}
