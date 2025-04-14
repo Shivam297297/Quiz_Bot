@@ -6,3 +6,4 @@ google-auth-oauthlib>=0.5.3
 pandas>=2.0.0  
 matplotlib
 Pillow
+oauth2client
